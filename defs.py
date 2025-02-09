@@ -62,7 +62,7 @@ def home():
     lucro = 0
 
 def entradas():
-    bd = pd.read_excel('.venv/tabela_de_entrada.xlsx')
+    bd = pd.read_excel('tabela_de_entrada.xlsx')
     st.markdown('<div> <p><b>Entradas</b></p> </div>', unsafe_allow_html=True)
 
     col1, col2, col3 = st.columns([1, 1, 1])
