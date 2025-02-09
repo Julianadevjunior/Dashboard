@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5b00b18f-62de-4bf3-8f2e-868cb43d1a07" name="Changes" comment="" />
+    <list default="true" id="5b00b18f-62de-4bf3-8f2e-868cb43d1a07" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.venv/.~lock.tabela_de_entrada.xlsx#" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.~lock.tabela_de_entrada.xlsx#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/.~lock.tabela_de_saida.xlsx#" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/.~lock.tabela_de_saida.xlsx#" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/tabela_de_entrada.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/tabela_de_entrada.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.venv/tabela_de_saida.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/.venv/tabela_de_saida.xlsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
